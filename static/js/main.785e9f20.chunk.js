@@ -1,0 +1,2 @@
+(this["webpackJsonptask-pricingcard"]=this["webpackJsonptask-pricingcard"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),i=c(3),r=c.n(i),s=(c(8),c(0));function a(){return Object(s.jsxs)("div",{className:"App",children:[Object(s.jsx)("h1",{children:"Hello CodeSandbox"}),Object(s.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var d=document.getElementById("root");r.a.render(Object(s.jsx)(n.StrictMode,{children:Object(s.jsx)(a,{})}),d)},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.785e9f20.chunk.js.map

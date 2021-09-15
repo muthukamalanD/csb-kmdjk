@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://muthukamaland.github.io/csb-kmdjk/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://muthukamaland.github.io/csb-kmdjk/static/js/main.785e9f20.chunk.js",
+    "main.js.map": "https://muthukamaland.github.io/csb-kmdjk/static/js/main.785e9f20.chunk.js.map",
+    "runtime-main.js": "https://muthukamaland.github.io/csb-kmdjk/static/js/runtime-main.641bf4bd.js",
+    "runtime-main.js.map": "https://muthukamaland.github.io/csb-kmdjk/static/js/runtime-main.641bf4bd.js.map",
+    "static/js/2.fa50588e.chunk.js": "https://muthukamaland.github.io/csb-kmdjk/static/js/2.fa50588e.chunk.js",
+    "static/js/2.fa50588e.chunk.js.map": "https://muthukamaland.github.io/csb-kmdjk/static/js/2.fa50588e.chunk.js.map",
+    "index.html": "https://muthukamaland.github.io/csb-kmdjk/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://muthukamaland.github.io/csb-kmdjk/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fa50588e.chunk.js.LICENSE.txt": "https://muthukamaland.github.io/csb-kmdjk/static/js/2.fa50588e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.641bf4bd.js",
+    "static/js/2.fa50588e.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.785e9f20.chunk.js"
+  ]
+}
